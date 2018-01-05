@@ -1,0 +1,115 @@
+[
+  {
+    "key": "Y7WR66GC",
+    "version": 33,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/collections/Y7WR66GC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/collections/Y7WR66GC",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numCollections": 10,
+      "numItems": 0
+    },
+    "data": {
+      "key": "Y7WR66GC",
+      "version": 33,
+      "name": "DCA",
+      "parentCollection": false,
+      "relations": {
+        
+      }
+    }
+  },
+  {
+    "key": "C2F3WNHB",
+    "version": 31,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/collections/C2F3WNHB",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/collections/C2F3WNHB",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numCollections": 0,
+      "numItems": 6
+    },
+    "data": {
+      "key": "C2F3WNHB",
+      "version": 31,
+      "name": "Inbox",
+      "parentCollection": false,
+      "relations": {
+        
+      }
+    }
+  },
+  {
+    "key": "PF8BLRVC",
+    "version": 2,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/collections/PF8BLRVC",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/collections/PF8BLRVC",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "numCollections": 2,
+      "numItems": 0
+    },
+    "data": {
+      "key": "PF8BLRVC",
+      "version": 2,
+      "name": "Digitality",
+      "parentCollection": false,
+      "relations": {
+      }
+    }
+  }
+]

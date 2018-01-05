@@ -1,0 +1,1681 @@
+[
+  {
+    "key": "HERQ8QN5",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/HERQ8QN5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/HERQ8QN5",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Pettman",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HERQ8QN5",
+      "version": 27,
+      "itemType": "book",
+      "title": "Infinite Distraction: Paying Attention to Social Media",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Dominic",
+          "lastName": "Pettman"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "2016",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:59Z",
+      "dateModified": "2018-01-04T23:41:17Z"
+    }
+  },
+  {
+    "key": "2NTJNZM7",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/2NTJNZM7",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/2NTJNZM7",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Ellis",
+      "parsedDate": "2016",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "2NTJNZM7",
+      "version": 27,
+      "itemType": "webpage",
+      "title": "Gab, the Alt-Right\u2019s Very Own Twitter, Is The Ultimate Filter Bubble",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Emma Grey",
+          "lastName": "Ellis"
+        }
+      ],
+      "abstractNote": "",
+      "websiteTitle": "",
+      "websiteType": "",
+      "date": "2016",
+      "shortTitle": "",
+      "url": "https://www.wired.com/2016/09/gab-alt-rights-twitter-ultimate-filter-bubble/",
+      "accessDate": "",
+      "language": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:57Z",
+      "dateModified": "2018-01-04T23:41:07Z"
+    }
+  },
+  {
+    "key": "JXPY5LCV",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/JXPY5LCV",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/JXPY5LCV",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Fisher",
+      "parsedDate": "2013-11",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "JXPY5LCV",
+      "version": 27,
+      "itemType": "blogPost",
+      "title": "Exiting the Vampire Castle",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Mark",
+          "lastName": "Fisher"
+        }
+      ],
+      "abstractNote": "",
+      "blogTitle": "The North Star",
+      "websiteType": "",
+      "date": "November 2013",
+      "url": "http://www.thenorthstar.info/?p=11299",
+      "accessDate": "",
+      "language": "",
+      "shortTitle": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:54Z",
+      "dateModified": "2018-01-04T23:40:54Z"
+    }
+  },
+  {
+    "key": "URTJDNNP",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/URTJDNNP",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/URTJDNNP",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Berlant",
+      "parsedDate": "2007-12",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "URTJDNNP",
+      "version": 27,
+      "itemType": "blogPost",
+      "title": "Faceless Book",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Lauren",
+          "lastName": "Berlant"
+        }
+      ],
+      "abstractNote": "",
+      "blogTitle": "Supervalent Thought",
+      "websiteType": "",
+      "date": "December 2007",
+      "url": "https://supervalentthought.com/2007/12/25/faceless-book/",
+      "accessDate": "",
+      "language": "",
+      "shortTitle": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:55Z",
+      "dateModified": "2018-01-04T23:40:49Z"
+    }
+  },
+  {
+    "key": "9JT3UUP5",
+    "version": 27,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/9JT3UUP5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/9JT3UUP5",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lyons",
+      "parsedDate": "2017",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "9JT3UUP5",
+      "version": 27,
+      "itemType": "webpage",
+      "title": "Ctrl-Alt-Delete: the origins and ideology of of the Alternative Right",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Matthew N.",
+          "lastName": "Lyons"
+        }
+      ],
+      "abstractNote": "",
+      "websiteTitle": "",
+      "websiteType": "",
+      "date": "2017",
+      "shortTitle": "",
+      "url": "http://www.politicalresearch.org/2017/01/20/ctrl-alt-delete-report-on-the-alternative-right/#sthash.iXUvxCT3.dpbs",
+      "accessDate": "",
+      "language": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:56Z",
+      "dateModified": "2018-01-04T23:40:11Z"
+    }
+  },
+  {
+    "key": "BWP84BZN",
+    "version": 14,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/BWP84BZN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/BWP84BZN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/HW4A58KX",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/BWP84BZN/file/view",
+        "title": "Adorno_Horkheimer_1944.pdf",
+        "length": 173676
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "BWP84BZN",
+      "version": 14,
+      "parentItem": "HW4A58KX",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Adorno_Horkheimer_1944",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Adorno_Horkheimer_1944.pdf",
+      "md5": "1c02726ee0435d21cb25a807f73b3463",
+      "mtime": 1515109080000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:38:00Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "BMJYJP47",
+    "version": 12,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/BMJYJP47",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/BMJYJP47",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/EPD5GHK9",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/BMJYJP47/file/view",
+        "title": "Franco-Berardi-Bifo-After-Future.pdf",
+        "length": 608684
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "BMJYJP47",
+      "version": 12,
+      "parentItem": "EPD5GHK9",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Franco-Berardi-Bifo-After-Future",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Franco-Berardi-Bifo-After-Future.pdf",
+      "md5": "3f4338d5dbd4fbd4f2a98945a58b5f27",
+      "mtime": 1515109080000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:38:00Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "6PFQQ8JQ",
+    "version": 11,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/6PFQQ8JQ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/6PFQQ8JQ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/HERQ8QN5",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/6PFQQ8JQ/file/view",
+        "title": "Infinite_Distraction.pdf",
+        "length": 590825
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "6PFQQ8JQ",
+      "version": 11,
+      "parentItem": "HERQ8QN5",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Infinite_Distraction",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Infinite_Distraction.pdf",
+      "md5": "669abcdde25fb29b4ac51d74715131ee",
+      "mtime": 1515109079000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:59Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "HW4A58KX",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/HW4A58KX",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/HW4A58KX",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Adorno and Horkheimer",
+      "parsedDate": "1944-06",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "HW4A58KX",
+      "version": 4,
+      "itemType": "bookSection",
+      "title": "The Culture Industry: Englightenment as Mass Deception",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Theodor W.",
+          "lastName": "Adorno"
+        },
+        {
+          "creatorType": "author",
+          "firstName": "Max",
+          "lastName": "Horkheimer"
+        }
+      ],
+      "abstractNote": "",
+      "bookTitle": "Dialectic of Enlightenment",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "28",
+      "numberOfVolumes": "6",
+      "edition": "",
+      "place": "",
+      "publisher": "",
+      "date": "June 1944",
+      "pages": "305-309",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "DOI: 10.1136/bjo.28.6.305",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:38:00Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "EPD5GHK9",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/EPD5GHK9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/EPD5GHK9",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Berardi",
+      "parsedDate": "2011",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "EPD5GHK9",
+      "version": 4,
+      "itemType": "book",
+      "title": "After the Future",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Franco 'Bifo'",
+          "lastName": "Berardi"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Oakland",
+      "publisher": "AK Press",
+      "date": "2011",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:38:00Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "9JFAMWRD",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/9JFAMWRD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/9JFAMWRD",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Berardi",
+      "parsedDate": "2009",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "9JFAMWRD",
+      "version": 4,
+      "itemType": "book",
+      "title": "The Soul at Work: from Alientation to Autonomy",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Franco",
+          "lastName": "Berardi"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Los Angeles",
+      "publisher": "Semiotext(e)",
+      "date": "2009",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:38:00Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "W82MKFVH",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/W82MKFVH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/W82MKFVH",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Berardi",
+      "parsedDate": "2014",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "W82MKFVH",
+      "version": 4,
+      "itemType": "book",
+      "title": "Neuro-Totalitarianism In Technomaya: Goog-Colonization of the Experience and Neuro-Plastic Alternative",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Franco",
+          "lastName": "Berardi"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Los Angeles",
+      "publisher": "Semiotext(e)",
+      "date": "2014",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:38:00Z",
+      "dateModified": "2018-01-04T23:38:00Z"
+    }
+  },
+  {
+    "key": "5LFFSQ9R",
+    "version": 8,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/5LFFSQ9R",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/5LFFSQ9R",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/6D6PMA4U",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/5LFFSQ9R/file/view",
+        "title": "WhatIsAnApparatus_Agamben.pdf",
+        "length": 3257584
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "5LFFSQ9R",
+      "version": 8,
+      "parentItem": "6D6PMA4U",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "WhatIsAnApparatus_Agamben",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "WhatIsAnApparatus_Agamben.pdf",
+      "md5": "450dbfc1aa20f2fbf441bc460a08cf5a",
+      "mtime": 1515109079000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:59Z",
+      "dateModified": "2018-01-04T23:37:59Z"
+    }
+  },
+  {
+    "key": "2UGTCDWR",
+    "version": 7,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/2UGTCDWR",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/2UGTCDWR",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/KUH8J55K",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/2UGTCDWR/file/view",
+        "title": "Razer_2016_trolls.pdf",
+        "length": 151015
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "2UGTCDWR",
+      "version": 7,
+      "parentItem": "KUH8J55K",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Razer_2016_trolls",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Razer_2016_trolls.pdf",
+      "md5": "30f6af4f0c9ed4d2d75fee8ae6cf3647",
+      "mtime": 1515109079000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:59Z",
+      "dateModified": "2018-01-04T23:37:59Z"
+    }
+  },
+  {
+    "key": "6D6PMA4U",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/6D6PMA4U",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/6D6PMA4U",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Agamben",
+      "parsedDate": "2009",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "6D6PMA4U",
+      "version": 4,
+      "itemType": "book",
+      "title": "What is an apparatus? and other essays",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Giorgio",
+          "lastName": "Agamben"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Stanford",
+      "publisher": "Stanford University Press",
+      "date": "2009",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:59Z",
+      "dateModified": "2018-01-04T23:37:59Z"
+    }
+  },
+  {
+    "key": "WW2RT4FL",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/WW2RT4FL",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/WW2RT4FL",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Sloterdijk",
+      "parsedDate": "2016",
+      "numChildren": 0
+    },
+    "data": {
+      "key": "WW2RT4FL",
+      "version": 4,
+      "itemType": "book",
+      "title": "Spheres vol. 3: Foams",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Peter",
+          "lastName": "Sloterdijk"
+        }
+      ],
+      "abstractNote": "",
+      "series": "",
+      "seriesNumber": "",
+      "volume": "",
+      "numberOfVolumes": "",
+      "edition": "",
+      "place": "Los Angeles",
+      "publisher": "Semiotext(e)",
+      "date": "2016",
+      "numPages": "",
+      "language": "",
+      "ISBN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:59Z",
+      "dateModified": "2018-01-04T23:37:59Z"
+    }
+  },
+  {
+    "key": "YWHIQCN9",
+    "version": 25,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/YWHIQCN9",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/YWHIQCN9",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/GHNRMW9I",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/YWHIQCN9/file/view",
+        "title": "lees_2016_gamergatealtright.pdf",
+        "length": 3656700
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "YWHIQCN9",
+      "version": 25,
+      "parentItem": "GHNRMW9I",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "lees_2016_gamergatealtright",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "lees_2016_gamergatealtright.pdf",
+      "md5": "92f31dbb471852263ff0d5d8933ad361",
+      "mtime": 1515109078000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:58Z",
+      "dateModified": "2018-01-04T23:37:58Z"
+    }
+  },
+  {
+    "key": "KTSX42LD",
+    "version": 16,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/KTSX42LD",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/KTSX42LD",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/NV79K2SH",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/KTSX42LD/file/view",
+        "title": "seymour_2016_schadenfreudewithbite.pdf",
+        "length": 204058
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "KTSX42LD",
+      "version": 16,
+      "parentItem": "NV79K2SH",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "seymour_2016_schadenfreudewithbite",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "seymour_2016_schadenfreudewithbite.pdf",
+      "md5": "cf008c7f8e8f2dd8cf2eb04f022b5763",
+      "mtime": 1515109078000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:58Z",
+      "dateModified": "2018-01-04T23:37:58Z"
+    }
+  },
+  {
+    "key": "NV79K2SH",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/NV79K2SH",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/NV79K2SH",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Seymour",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "NV79K2SH",
+      "version": 4,
+      "itemType": "journalArticle",
+      "title": "Schadenfreude with Bite",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Richard",
+          "lastName": "Seymour"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "London Review of Books",
+      "volume": "38",
+      "issue": "24",
+      "pages": "11-14",
+      "date": "2016",
+      "series": "",
+      "seriesTitle": "",
+      "seriesText": "",
+      "journalAbbreviation": "",
+      "language": "",
+      "DOI": "",
+      "ISSN": "",
+      "shortTitle": "",
+      "url": "",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:58Z",
+      "dateModified": "2018-01-04T23:37:58Z"
+    }
+  },
+  {
+    "key": "KUH8J55K",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/KUH8J55K",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/KUH8J55K",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Razer",
+      "parsedDate": "2016",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "KUH8J55K",
+      "version": 4,
+      "itemType": "email",
+      "subject": "The alt-right is filled with party starters, the left with party poopers",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Helen",
+          "lastName": "Razer"
+        }
+      ],
+      "abstractNote": "",
+      "date": "2016",
+      "shortTitle": "",
+      "url": "https://www.crikey.com.au/2016/12/08/razer-alt-right-beats-the-liberal-left-for-entertainment-value/",
+      "accessDate": "",
+      "language": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:58Z",
+      "dateModified": "2018-01-04T23:37:58Z"
+    }
+  },
+  {
+    "key": "GHNRMW9I",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/GHNRMW9I",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/GHNRMW9I",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Lees",
+      "parsedDate": "2016-12",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "GHNRMW9I",
+      "version": 4,
+      "itemType": "newspaperArticle",
+      "title": "What Gamergate should have taught us about the \"alt-right\"",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Matt",
+          "lastName": "Lees"
+        }
+      ],
+      "abstractNote": "",
+      "publicationTitle": "The Guardian",
+      "place": "",
+      "edition": "",
+      "date": "December 2016",
+      "section": "",
+      "pages": "",
+      "language": "",
+      "shortTitle": "",
+      "ISSN": "",
+      "url": "https://www.theguardian.com/technology/2016/dec/01/gamergate-alt-right-hate-trump",
+      "accessDate": "",
+      "archive": "",
+      "archiveLocation": "",
+      "libraryCatalog": "",
+      "callNumber": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:58Z",
+      "dateModified": "2018-01-04T23:37:58Z"
+    }
+  },
+  {
+    "key": "MNJVRC5B",
+    "version": 17,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/MNJVRC5B",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/MNJVRC5B",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/3PBQQSQC",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/MNJVRC5B/file/view",
+        "title": "Nussbaum_2017_jokeswontheelection.pdf",
+        "length": 534660
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "MNJVRC5B",
+      "version": 17,
+      "parentItem": "3PBQQSQC",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Nussbaum_2017_jokeswontheelection",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Nussbaum_2017_jokeswontheelection.pdf",
+      "md5": "d4df3c73d58ae85f51a63b1df84d1570",
+      "mtime": 1515109077000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:56Z",
+      "dateModified": "2018-01-04T23:37:57Z"
+    }
+  },
+  {
+    "key": "7JE5RYN5",
+    "version": 10,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/7JE5RYN5",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/7JE5RYN5",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/RSRTQGMN",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/7JE5RYN5/file/view",
+        "title": "Alexander_2014_rightisthenewleft.pdf",
+        "length": 273853
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "7JE5RYN5",
+      "version": 10,
+      "parentItem": "RSRTQGMN",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Alexander_2014_rightisthenewleft",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Alexander_2014_rightisthenewleft.pdf",
+      "md5": "d2454f28b95a3eb300dfff85ce53cfca",
+      "mtime": 1515109077000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:57Z",
+      "dateModified": "2018-01-04T23:37:57Z"
+    }
+  },
+  {
+    "key": "6EXBI3TN",
+    "version": 9,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/6EXBI3TN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/6EXBI3TN",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/items/XJIBGUHR",
+        "type": "application/json"
+      },
+      "enclosure": {
+        "type": "application/pdf",
+        "href": "https://api.zotero.org/users/4607864/items/6EXBI3TN/file/view",
+        "title": "Seymour_2016_wearealltrolls.pdf",
+        "length": 160649
+      }
+    },
+    "meta": {
+      
+    },
+    "data": {
+      "key": "6EXBI3TN",
+      "version": 9,
+      "parentItem": "XJIBGUHR",
+      "itemType": "attachment",
+      "linkMode": "imported_file",
+      "title": "Seymour_2016_wearealltrolls",
+      "accessDate": "",
+      "url": "",
+      "note": "",
+      "contentType": "application/pdf",
+      "charset": "",
+      "filename": "Seymour_2016_wearealltrolls.pdf",
+      "md5": "abf704150b73fdac44e433d0481c77e6",
+      "mtime": 1515109077000,
+      "tags": [
+        
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:57Z",
+      "dateModified": "2018-01-04T23:37:57Z"
+    }
+  },
+  {
+    "key": "RSRTQGMN",
+    "version": 4,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/items/RSRTQGMN",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/items/RSRTQGMN",
+        "type": "text/html"
+      }
+    },
+    "meta": {
+      "creatorSummary": "Alexander",
+      "parsedDate": "2014",
+      "numChildren": 1
+    },
+    "data": {
+      "key": "RSRTQGMN",
+      "version": 4,
+      "itemType": "email",
+      "subject": "Right is the new left",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Scott",
+          "lastName": "Alexander"
+        }
+      ],
+      "abstractNote": "",
+      "date": "2014",
+      "shortTitle": "",
+      "url": "http://slatestarcodex.com/2014/04/22/right-is-the-new-left/",
+      "accessDate": "",
+      "language": "",
+      "rights": "",
+      "extra": "",
+      "tags": [
+        
+      ],
+      "collections": [
+        "AIUWVGAJ"
+      ],
+      "relations": {
+        
+      },
+      "dateAdded": "2018-01-04T23:37:57Z",
+      "dateModified": "2018-01-04T23:37:57Z"
+    }
+  }
+]

@@ -23,7 +23,7 @@ class Zotero::Entities::Collection
   def get_collections
     return [] if @no_collections
 
-    @api.get("/collections/#{@key}/collections").collect do |data|
+    @api.get("collections/#{@key}/collections").collect do |data|
       ::Zotero::Entities::Collection.new @api, data
     end
   end
@@ -34,7 +34,7 @@ class Zotero::Entities::Collection
     @api.get("collections/#{@key}/items").select{ |data|
       'attachment' != data['itemType']
     }.collect do |data|
-      ::Zotero::Entities::Item.new @api, data
+      ::Zotero::Entities::Item.new data
     end
   end
 end

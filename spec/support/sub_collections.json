@@ -1,0 +1,86 @@
+[
+  {
+    "key": "4EAR75IS",
+    "version": 29,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/collections/4EAR75IS",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/collections/4EAR75IS",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/collections/PF8BLRVC",
+        "type": "application/atom+xml"
+      }
+    },
+    "meta": {
+      "numCollections": 0,
+      "numItems": 6
+    },
+    "data": {
+      "key": "4EAR75IS",
+      "version": 29,
+      "name": "Other",
+      "parentCollection": "PF8BLRVC",
+      "relations": {
+        
+      }
+    }
+  },
+  {
+    "key": "AIUWVGAJ",
+    "version": 26,
+    "library": {
+      "type": "user",
+      "id": 4607864,
+      "name": "micapam",
+      "links": {
+        "alternate": {
+          "href": "https://www.zotero.org/micapam",
+          "type": "text/html"
+        }
+      }
+    },
+    "links": {
+      "self": {
+        "href": "https://api.zotero.org/users/4607864/collections/AIUWVGAJ",
+        "type": "application/json"
+      },
+      "alternate": {
+        "href": "https://www.zotero.org/micapam/collections/AIUWVGAJ",
+        "type": "text/html"
+      },
+      "up": {
+        "href": "https://api.zotero.org/users/4607864/collections/PF8BLRVC",
+        "type": "application/atom+xml"
+      }
+    },
+    "meta": {
+      "numCollections": 0,
+      "numItems": 24
+    },
+    "data": {
+      "key": "AIUWVGAJ",
+      "version": 26,
+      "name": "Interface",
+      "parentCollection": "PF8BLRVC",
+      "relations": {
+        
+      }
+    }
+  }
+]
