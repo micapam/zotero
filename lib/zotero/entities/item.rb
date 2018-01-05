@@ -1,5 +1,6 @@
 require 'active_support/core_ext/string/inflections'
 
+#TODO: rationalise these, find list of Zotero item types & attributes
 ITEM_ATTS = %w(
   blog_title
   date
@@ -22,7 +23,7 @@ class Zotero::Entities::Item
 
   def initialize(data)
     @key = data['key']  
-    @kind = data['data']['itemType'] #TODO: rationalise these, find list of Zotero item types
+    @kind = data['data']['itemType'] 
     @creators = generate_creators data['data']['creators']
 
     ITEM_ATTS.each do |att|

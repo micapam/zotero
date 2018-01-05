@@ -4,15 +4,15 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'zotero/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "zotero"
+  spec.name          = 'zotero'
   spec.version       = Zotero::VERSION
-  spec.authors       = ["Joshua Mostafa"]
-  spec.email         = ["micapam@gmail.com"]
+  spec.authors       = ['Joshua Mostafa']
+  spec.email         = ['micapam@gmail.com']
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
-  spec.license       = "MIT"
+  spec.summary       = 'Access reference lists from Zotero with Ruby'
+  spec.description   = 'Provide easy Ruby access to Zotero, for e.g. generating online bibliographies and reading lists.'
+  spec.homepage      = 'https://github.com/micapam/zotero'
+  spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
   # delete this section to allow pushing this gem to any host.
