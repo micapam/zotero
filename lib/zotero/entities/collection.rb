@@ -1,5 +1,5 @@
 class Zotero::Entities::Collection 
-  attr_reader :collections, :name
+  attr_reader :name
 
   def initialize(api, data)
     @api = api
@@ -16,6 +16,14 @@ class Zotero::Entities::Collection
 
   def items
     @items ||= get_items
+  end
+
+  def to_h
+    {
+      name: name, 
+      collections: collections.collect &:to_h,
+      items: items.collect &:to_h
+    }
   end
 
   private 

@@ -37,6 +37,12 @@ class Zotero::Entities::Item
     }.join(' ')
   end
 
+  def to_h
+    ((ITEM_ATTS + [:kind]).collect {|att|
+      [att, send(att)]
+    } + [:creators, creators.collect(&:to_h)]).to_h
+  end
+
   private
 
   def generate_creators(data)
