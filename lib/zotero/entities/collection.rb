@@ -21,9 +21,9 @@ class Zotero::Entities::Collection
   def to_h
     {
       name: name, 
-      collections: collections.collect &:to_h,
-      items: items.collect &:to_h
-    }
+      collections: collections.collect(&:to_h),
+      items: items.collect(&:to_h)
+    }.symbolize_keys
   end
 
   private 

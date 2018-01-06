@@ -39,8 +39,8 @@ class Zotero::Entities::Item
 
   def to_h
     ((ITEM_ATTS + [:kind]).collect {|att|
-      [att, send(att)]
-    } + [:creators, creators.collect(&:to_h)]).to_h
+      [att, send(att.to_sym)]
+    } + [[:creators, creators.collect(&:to_h)]]).to_h.symbolize_keys
   end
 
   private

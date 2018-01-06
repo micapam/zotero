@@ -12,6 +12,6 @@ class Zotero::Entities::Creator
       first_name: first_name,
       last_name: last_name,
       kind: kind
-    }
+    }.symbolize_keys
   end
 end

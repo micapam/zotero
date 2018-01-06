@@ -16,5 +16,11 @@ describe Zotero::Entities::Item do
     specify { expect(author.last_name).to eq 'Berlant' }
     specify { expect(author.first_name).to eq 'Lauren' }
     specify { expect(author.kind).to eq 'author' }
+
+    describe '#to_h' do
+      let(:hash) { subject.to_h }
+
+      specify { expect(hash[:title]).to eq subject.title }
+    end
   end
 end

@@ -49,5 +49,16 @@ describe Zotero::Entities::Collection do
 
       expect(items.size).to eq 25
     end
+
+    describe '#to_h' do 
+      let(:hash) do
+        allow(api).to receive(:get).and_return(items_data)
+        subject.to_h 
+      end
+
+      specify { expect(hash[:name]).to eq subject.name }
+      specify { expect(hash[:collections]).to eq [] }
+      specify { expect(hash[:items].size).to eq 25 }
+    end
   end
 end

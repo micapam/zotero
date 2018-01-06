@@ -1,3 +1,5 @@
+require 'active_support/core_ext/hash/keys'
+
 module Zotero
   module Entities; end
   module Styles; end
