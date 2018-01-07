@@ -36,6 +36,18 @@ class Zotero::Entities::Entry
     end
   end
 
+  def authors 
+    creators.select &:author?
+  end
+
+  def editors 
+    creators.select &:editor?
+  end
+
+  def translators
+    creators.select &:translator?
+  end
+
   def creator_sort_string 
     @creator_sort_string ||= generate_creator_sort_string
   end

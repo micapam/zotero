@@ -7,6 +7,18 @@ class Zotero::Entities::Creator
     @kind = data['creatorType']
   end
 
+  def author? 
+    'author' == kind
+  end
+
+  def editor? 
+    'editor' == kind
+  end
+
+  def translator?
+    'translator' == kind
+  end
+
   def to_h
     {
       first_name: first_name,
