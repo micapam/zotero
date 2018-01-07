@@ -50,6 +50,19 @@ describe Zotero::Entities::Collection do
       expect(entries.size).to eq 15
     end
 
+    it 'should sort entries' do 
+      allow(api).to receive(:get).with(
+        "collections/#{sub_data.last['key']}/items"
+      ).and_return(entries_data)
+
+      entries = subject.entries
+
+      expect(entries.first.title).to eq(
+        'The Culture Industry: Englightenment as Mass Deception') # Adorno
+        
+      expect(entries.last.title).to eq 'Spheres vol. 3: Foams' # Sloterdijk
+    end
+
     describe '#to_h' do 
       let(:hash) do
         allow(api).to receive(:get).and_return(entries_data)

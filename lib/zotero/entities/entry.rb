@@ -35,10 +35,8 @@ class Zotero::Entities::Entry
     end
   end
 
-  def creator_sort_string
-    creators.collect {|creator|
-      "#{creator.last_name} #{creator.first_name}"
-    }.join(' ')
+  def creator_sort_string 
+    @creator_sort_string ||= generate_creator_sort_string
   end
 
   def to_h
@@ -55,5 +53,11 @@ class Zotero::Entities::Entry
     data.collect do |creator_data| 
       ::Zotero::Entities::Creator.new creator_data
     end
+  end
+
+  def generate_creator_sort_string
+    creators.collect {|creator|
+      "#{creator.last_name} #{creator.first_name}"
+    }.join(' ')
   end
 end

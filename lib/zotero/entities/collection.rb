@@ -48,8 +48,10 @@ class Zotero::Entities::Collection
 
     @api.get("collections/#{@key}/items").select{ |data|
       'attachment' != data['data']['itemType']
-    }.collect do |data|
+    }.collect { |data|
       ::Zotero::Entities::Entry.new data
-    end
+    }.sort {|a, b|
+      a.creator_sort_string <=> b.creator_sort_string
+    }
   end
 end
