@@ -2,6 +2,7 @@ require 'active_support/core_ext/string/inflections'
 
 #TODO: rationalise these, find list of Zotero item types & attributes
 ENTRY_ATTS = %w(
+  access_date
   blog_title
   date
   edition
