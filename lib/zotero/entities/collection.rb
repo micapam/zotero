@@ -40,7 +40,7 @@ class Zotero::Entities::Collection
 
     @api.get("collections/#{@key}/collections").collect {|data|
       ::Zotero::Entities::Collection.new @api, data
-    }.sort |a, b|
+    }.sort {|a, b|
       a.name <=> b.name
     }
   end
