@@ -11,8 +11,10 @@ ENTRY_ATTS = %w(
   place
   publication_title
   publisher
+  running_time
   series
   series_number
+  studio
   title
   url
   volume
