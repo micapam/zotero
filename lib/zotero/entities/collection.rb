@@ -38,15 +38,17 @@ class Zotero::Entities::Collection
   def get_collections
     return [] if @no_collections
 
-    @api.get("collections/#{@key}/collections").collect do |data|
+    @api.get("collections/#{@key}/collections").collect {|data|
       ::Zotero::Entities::Collection.new @api, data
-    end
+    }.sort |a, b|
+      a.name <=> b.name
+    }
   end
 
   def get_entries
     return [] if @no_entries
 
-    @api.get("collections/#{@key}/items").select{ |data|
+    @api.get("collections/#{@key}/items").select {|data|
       'attachment' != data['data']['itemType']
     }.collect { |data|
       ::Zotero::Entities::Entry.new data

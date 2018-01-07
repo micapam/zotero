@@ -18,6 +18,7 @@ ENTRY_ATTS = %w(
   series_number
   studio
   title
+  university
   url
   volume
   website_title
