@@ -4,6 +4,7 @@ require 'active_support/core_ext/string/inflections'
 ENTRY_ATTS = %w(
   access_date
   blog_title
+  book_title
   date
   edition
   issue
