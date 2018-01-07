@@ -21,7 +21,23 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+First, go find out your [Zoetero user ID](https://www.zotero.org/settings/keys).
+
+Then [create a private key](https://www.zotero.org/settings/keys/new) to access
+your data via the Zotero API.
+
+Now you can access your data using this Ruby gem. For example:
+
+```
+library = Zotero::Library.new ZOTERO_USER_ID, ZOTERO_KEY
+library.collections                     # Get all your top-level collections
+collection = library.collections.first 
+collection.entries                      # Get all the entries in a collection
+collection.collections                  # Get sub-collections
+collection.entries.first.title          # Get the title of an entry
+collection.entries.first.kind           # e.g. 'journal_article' / 'book'
+collection.entries.first.authors
+```
 
 ## Development
 
