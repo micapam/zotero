@@ -47,7 +47,7 @@ describe Zotero::Entities::Collection do
 
       entries = subject.entries
 
-      expect(entries.size).to eq 25
+      expect(entries.size).to eq 15
     end
 
     describe '#to_h' do 
@@ -58,7 +58,7 @@ describe Zotero::Entities::Collection do
 
       specify { expect(hash[:name]).to eq subject.name }
       specify { expect(hash[:collections]).to eq [] }
-      specify { expect(hash[:entries].size).to eq 25 }
+      specify { expect(hash[:entries].size).to eq 15 }
     end
   end
 end

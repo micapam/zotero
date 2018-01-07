@@ -9,7 +9,7 @@ describe Zotero::Entities::Entry do
     let(:author) { subject.creators.first }
 
     specify { expect(subject.title).to eq 'Faceless Book' }
-    specify { expect(subject.kind).to eq 'blogPost' }
+    specify { expect(subject.kind).to eq 'blog_post' }
     specify { expect(subject.blog_title).to eq 'Supervalent Thought' }
     specify { expect(subject.date).to eq 'December 2007' }
     specify { expect(subject.creators.size).to eq 1 }

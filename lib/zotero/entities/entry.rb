@@ -23,7 +23,7 @@ class Zotero::Entities::Entry
 
   def initialize(data)
     @key = data['key']  
-    @kind = data['data']['itemType'] 
+    @kind = data['data']['itemType'].underscore
     @creators = generate_creators data['data']['creators']
 
     ENTRY_ATTS.each do |att|
