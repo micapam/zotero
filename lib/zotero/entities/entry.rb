@@ -19,6 +19,7 @@ ENTRY_ATTS = %w(
   title
   url
   volume
+  website_title
 )
 
 class Zotero::Entities::Entry
