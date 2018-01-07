@@ -1,11 +1,11 @@
 require 'spec_helper'
 
-describe Zotero::Entities::Item do
-  let(:items_data) { JSON.parse(File.read('./spec/support/items.json')) }  
-  subject { described_class.new item_data }
+describe Zotero::Entities::Entry do
+  let(:entries_data) { JSON.parse(File.read('./spec/support/entries.json')) }  
+  subject { described_class.new entry_data }
 
   context 'book' do 
-    let(:item_data) { items_data[3] }
+    let(:entry_data) { entries_data[3] }
     let(:author) { subject.creators.first }
 
     specify { expect(subject.title).to eq 'Faceless Book' }

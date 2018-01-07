@@ -5,7 +5,7 @@ class Zotero::Entities::Collection
     @api = api
 
     @key = data['key']
-    @no_items = 0 == data['meta']['numItems']
+    @no_entries = 0 == data['meta']['numItems']
     @no_collections = 0 == data['meta']['numCollections']
     @name = data['data']['name']
   end
@@ -14,21 +14,21 @@ class Zotero::Entities::Collection
     @collections ||= get_collections
   end
 
-  def items
-    @items ||= get_items
+  def entries
+    @entries ||= get_entries
   end
 
   def to_h
     {
       name: name, 
       collections: collections.collect(&:to_h),
-      items: items.collect(&:to_h)
+      entries: entries.collect(&:to_h)
     }.symbolize_keys
   end
 
-  # Eager-load all items and child collections
+  # Eager-load all entries and child collections
   def preload
-    items
+    entries
     collections.each &:preload
     nil
   end
@@ -43,13 +43,13 @@ class Zotero::Entities::Collection
     end
   end
 
-  def get_items
-    return [] if @no_items
+  def get_entries
+    return [] if @no_entries
 
     @api.get("collections/#{@key}/items").select{ |data|
       'attachment' != data['itemType']
     }.collect do |data|
-      ::Zotero::Entities::Item.new data
+      ::Zotero::Entities::Entry.new data
     end
   end
 end

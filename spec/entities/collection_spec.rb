@@ -3,19 +3,19 @@ require 'spec_helper'
 describe Zotero::Entities::Collection do 
   let(:top_data) { JSON.parse(File.read('./spec/support/top_collections.json')) }
   let(:sub_data) { JSON.parse(File.read('./spec/support/sub_collections.json')) }
-  let(:items_data) { JSON.parse(File.read('./spec/support/items.json')) }
+  let(:entries_data) { JSON.parse(File.read('./spec/support/entries.json')) }
   let(:api) { double 'api' }
   subject { described_class.new api, collection_data }
 
-  context 'parent, no items' do
+  context 'parent, no entries' do
     let(:collection_data) { top_data.last }
 
     specify { expect(subject.name).to eq 'Digitality' }
 
-    it 'should not bother loading items as there are none' do 
+    it 'should not bother loading entries as there are none' do 
       expect(api).not_to receive(:get)
-      items = subject.items
-      expect(items).to be_empty
+      entries = subject.entries
+      expect(entries).to be_empty
     end
 
     it 'should load child collections' do 
@@ -29,7 +29,7 @@ describe Zotero::Entities::Collection do
     end
   end
 
-  context 'child, has items, no children' do
+  context 'child, has entries, no children' do
     let(:collection_data) { sub_data.last }
 
     specify { expect(subject.name).to eq 'Interface' }
@@ -40,25 +40,25 @@ describe Zotero::Entities::Collection do
       expect(collections).to be_empty
     end
 
-    it 'should load items' do 
+    it 'should load entries' do 
       expect(api).to receive(:get).with(
         "collections/#{sub_data.last['key']}/items"
-      ).and_return(items_data)
+      ).and_return(entries_data)
 
-      items = subject.items
+      entries = subject.entries
 
-      expect(items.size).to eq 25
+      expect(entries.size).to eq 25
     end
 
     describe '#to_h' do 
       let(:hash) do
-        allow(api).to receive(:get).and_return(items_data)
+        allow(api).to receive(:get).and_return(entries_data)
         subject.to_h 
       end
 
       specify { expect(hash[:name]).to eq subject.name }
       specify { expect(hash[:collections]).to eq [] }
-      specify { expect(hash[:items].size).to eq 25 }
+      specify { expect(hash[:entries].size).to eq 25 }
     end
   end
 end

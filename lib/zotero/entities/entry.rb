@@ -1,7 +1,7 @@
 require 'active_support/core_ext/string/inflections'
 
 #TODO: rationalise these, find list of Zotero item types & attributes
-ITEM_ATTS = %w(
+ENTRY_ATTS = %w(
   blog_title
   date
   edition
@@ -18,15 +18,15 @@ ITEM_ATTS = %w(
   volume
 )
 
-class Zotero::Entities::Item 
-  attr_reader :creators, :kind, *ITEM_ATTS
+class Zotero::Entities::Entry
+  attr_reader :creators, :kind, *ENTRY_ATTS
 
   def initialize(data)
     @key = data['key']  
     @kind = data['data']['itemType'] 
     @creators = generate_creators data['data']['creators']
 
-    ITEM_ATTS.each do |att|
+    ENTRY_ATTS.each do |att|
       instance_variable_set "@#{att}", data['data'][att.camelize(:lower)]
     end
   end
@@ -38,7 +38,7 @@ class Zotero::Entities::Item
   end
 
   def to_h
-    ((ITEM_ATTS + [:kind]).collect {|att|
+    ((ENTRY_ATTS + [:kind]).collect {|att|
       [att, send(att.to_sym)]
     } + [[:creators, creators.collect(&:to_h)]]).to_h.symbolize_keys
   end
