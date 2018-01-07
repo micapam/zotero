@@ -29,6 +29,7 @@ your data via the Zotero API.
 Now you can access your data using this Ruby gem. For example:
 
 ```
+require 'zotero'
 library = Zotero::Library.new ZOTERO_USER_ID, ZOTERO_KEY
 library.collections                     # Get all your top-level collections
 collection = library.collections.first 
