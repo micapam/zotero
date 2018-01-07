@@ -26,6 +26,13 @@ class Zotero::Entities::Collection
     }.symbolize_keys
   end
 
+  # Eager-load all items and child collections
+  def preload
+    items
+    collections.each &:preload
+    nil
+  end
+
   private 
 
   def get_collections
