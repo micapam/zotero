@@ -21,7 +21,7 @@ Or install it yourself as:
 
 ## Usage
 
-First, go find out your [Zoetero user ID](https://www.zotero.org/settings/keys).
+First, go find out your [Zotero user ID](https://www.zotero.org/settings/keys).
 
 Then [create a private key](https://www.zotero.org/settings/keys/new) to access
 your data via the Zotero API.
