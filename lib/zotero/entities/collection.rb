@@ -47,7 +47,7 @@ class Zotero::Entities::Collection
     return [] if @no_entries
 
     @api.get("collections/#{@key}/items").select{ |data|
-      'attachment' != data['itemType']
+      'attachment' != data['data']['itemType']
     }.collect do |data|
       ::Zotero::Entities::Entry.new data
     end
