@@ -40,6 +40,10 @@ collection.entries.first.kind           # e.g. 'journal_article' / 'book'
 collection.entries.first.authors
 ```
 
+The methods return Ruby objects; take a look at `lib/zotero/entities` to see the classes. Associations are lazy-loaded except for the creators (authors, editors or translators) of an `Entry`. If you want to eager-load a `Collection`, including all its entries, sub-collections and _their_ entries, etc, use the `#preload` method. 
+
+I wrote this gem to populate the bibliography pages of my personal website, (joshuamostafa.info)[http://joshuamostafa.info]. The source code for that website is also on github, so if you want to see a working example, take a look: github.com/micapam/jm-info.
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
