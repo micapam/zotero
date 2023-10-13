@@ -5,5 +5,4 @@ module Zotero
   module Styles; end
 end
 
-puts "hey!"
-Gem.find_files('zotero/**/*.rb').each { |path| puts path; require path }
+Gem.find_files('zotero/**/*.rb').each { |path| require path }
